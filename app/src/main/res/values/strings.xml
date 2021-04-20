@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoAssignment</string>
+    <string name="title">Movie Show Name</string>
+    <string name="year">Year</string>
+    <string name="enter_name_of_movie_or_show">Enter name of movie or show</string>
+    <string name="search">Search</string>
+</resources>
